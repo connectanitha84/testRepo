@@ -21,5 +21,5 @@ testing conflict
 
 11. check for datasets in google
 
-12. testing the pull of the origin
+12. testing the changed info
 
